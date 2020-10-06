@@ -2,11 +2,18 @@
 
 My name is Tim (he/him). 
 
-I'm a computational biologist, data scientist, and general tinkerer. I host a lot of random repos on this github - primarily a combination of bioinformatics and home-automation related code and documentation. 
+I'm a computational biologist, data scientist, and general tinkerer. I host a lot of random repos on GitHub - primarily a combination of bioinformatics and home-automation related code and documentation. 
 
-Code hosted here is mostly very old legacy and often doesn't necessarily represent my current coding style or skillset. Sadly, the vast bulk of code I write for work is proprietary. For up-to-date code samples please contact me directly. 
+Code hosted here is mostly very old legacy and usually doesn't necessarily represent my current coding style or skillset. Sadly, the vast bulk of code I write for work is proprietary. For up-to-date code samples please contact me directly. 
 
 If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it. 
+
+- 💬 Ask me about:
+  - Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
+  - Cancer immunotherapy (CAR-T), transcriptional & translational regulation, etc. I love translating biology and computer science concepts for folks with less of a background
+  - Hobbyist microelectronics and smarthome devices
+  - Home networking
+- 📫 How to reach me: Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/), or visit my (very out of date) website at www.timothyjohnstone.com
 
 <!--
 **tgjohnst/tgjohnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +24,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
