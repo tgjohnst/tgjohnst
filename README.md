@@ -13,7 +13,8 @@ If you have questions or requests on any repos, please feel free to add an issue
   - Cancer immunotherapy (CAR-T), transcriptional & translational regulation, etc. I love translating biology and computer science concepts for folks with less of a background
   - Hobbyist microelectronics and smarthome devices
   - Home networking
-- 📫 How to reach me: Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/), or visit my (very out of date) website at www.timothyjohnstone.com
+  - Cloud architecture
+- 📫 How to reach me: Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/)~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
 <!--
 **tgjohnst/tgjohnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
