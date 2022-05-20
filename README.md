@@ -9,11 +9,11 @@ I'm a computational biologist, data scientist, cloud architect, and general tink
 If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it. 
 
 - 💬 Ask me about:
-  - Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
-  - Cancer immunotherapy (CAR-T), transcriptional & translational regulation, etc. I love translating biology and computer science concepts for folks with less of a background
-  - Hobbyist microelectronics and smarthome devices
-  - Home networking
-  - Cloud architecture
+  - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
+  - 🔬 Cancer immunotherapy (CAR-T), transcriptional & translational regulation, etc. I love translating biology and computer science concepts for folks with less of a background
+  - 🔌 Hobbyist microelectronics and smarthome devices
+  - 🌐 Home networking
+  - ☁️ Cloud architecture
 - 📫 How to reach me: Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/)~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
 <!--
