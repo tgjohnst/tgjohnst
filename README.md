@@ -10,7 +10,7 @@ If you have questions or requests on any repos, please feel free to add an issue
 
 - 💬 **Ask me about:**
   - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
-  - 🔬 Cancer immunotherapy (CAR-T), RNA editing, transcriptional & translational regulation, etc. I love translating biology and computer science concepts for folks with less of a background
+  - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, Transcriptional & Translational Regulation, etc. I love translating biology and computer science concepts for folks with less of a background
   - 🔌 Hobbyist microelectronics and smarthome devices
   - 🌐 Home networking
   - ☁️ Cloud architecture
