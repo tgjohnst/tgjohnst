@@ -15,5 +15,7 @@ If you have questions or requests on any repos, please feel free to add an issue
   - 🌐 Home networking
   - ☁️ Cloud architecture
 - 📫 **How to reach me:** Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/)~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
-<a href="https://linkedin.com/in/timjohnstone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexboldit" height="30" width="40" /></a>
-<!--
+
+![GitHub followers](https://img.shields.io/github/followers/tgjohnst?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/tgjohnst?affiliations=OWNER&style=for-the-badge)
+
+<a href="https://linkedin.com/in/timjohnstone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tj_linkedin" height="30" width="40" /></a>
