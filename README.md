@@ -10,12 +10,14 @@ If you have questions or requests on any repos, please feel free to add an issue
 
 - 💬 **Ask me about:**
   - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
-  - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, Transcriptional & Translational Regulation, etc. I love translating biology and computer science concepts for folks with less of a background
   - 🔌 Hobbyist microelectronics and smarthome devices
+  - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, etc
   - 🌐 Home networking
   - ☁️ Cloud architecture
 - 📫 **How to reach me:** Create an issue here, message me on [LinkedIn](https://www.linkedin.com/in/timjohnstone/)~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
 ![GitHub followers](https://img.shields.io/github/followers/tgjohnst?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/tgjohnst?affiliations=OWNER&style=for-the-badge)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent)
 
 <a href="https://linkedin.com/in/timjohnstone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tj_linkedin" height="30" width="40" /></a>
