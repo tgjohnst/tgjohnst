@@ -18,6 +18,6 @@ If you have questions or requests on any repos, please feel free to add an issue
 
 <!--![GitHub followers](https://img.shields.io/github/followers/tgjohnst?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/tgjohnst?affiliations=OWNER&style=for-the-badge)-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20&hide_rank=true)
 
 <a href="https://linkedin.com/in/timjohnstone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tj_linkedin" height="30" width="40" /></a>
