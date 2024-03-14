@@ -10,10 +10,11 @@ If you have questions or requests on any repos, please feel free to add an issue
 
 - 💬 **Ask me about:**
   - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
+  - ☁️ Cloud solutions architecture (AWS)
   - 🔌 Hobbyist microelectronics and smarthome devices
   - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, etc
   - 🌐 Home networking
-  - ☁️ Cloud architecture
+
 - 📫 **How to reach me:** Create an issue here, message me on LinkedIn ~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20&hide_rank=true)
