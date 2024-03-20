@@ -13,7 +13,9 @@ I host a lot of random repos on GitHub - primarily a combination of bioinformati
 
 *Code hosted here is mostly either very old legacy and/or experiments done in spare moments here or there and doesn't represent my current style nor reproducibility/documentation practices when working on production code. The vast bulk of code I write for work is proprietary - for up-to-date code samples please contact me directly.*
 
-If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it. 
+If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20&hide_rank=true)
 
 ## 💬 **Ask me about:**
   - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
@@ -25,12 +27,10 @@ If you have questions or requests on any repos, please feel free to add an issue
 ## 📫 **How to reach me:** 
 Create an issue here, message me on LinkedIn ~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20&hide_rank=true)
-
-### Socials
+## 👥 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timjohnstone/)
 
-### Dev Stack includes:
+## 💻 Dev Stack includes:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#) | [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#) 
 [![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)](#) 
 
