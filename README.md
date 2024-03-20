@@ -1,21 +1,29 @@
-### Hi there 👋
+# Hi! 👋
+
+## 👨‍💻 About Me
 
 My name is Tim (he/him). 
 
-I'm a computational biologist, data scientist, cloud architect, and general tinkerer. I host a lot of random repos on GitHub - primarily a combination of bioinformatics, genAI experimentation, personal hardware projects, and home-automation related code and documentation. 
+I'm a cloud-native computational biologist and maker with a passion for problem solving. My mission is to elevate biological intuition and knowledge with a mastery of informatics and systems engineering. As a dynamic technical leader, I'm known for deciphering esoteric technical challenges; flourishing in environments where I can architect systems, craft tools, streamline processes, and mentor and advocate for others to empower an exceptional team around me.
+
+I'm motivated and fascinated by extracting, compiling, and presenting visual meaning from complex information. Scientifically, I'm most comfortable solving mysteries large and small in the world of nucleic acid biology: sequence processing, novel assay development, and algorithmic implementation. Documentation and reproducibility are not just checkboxes; they are the backbone of my analytical work. The fulfillment of engineering cloud resources, informatic tools, and robust automated systems to fuel massively parallel computational biology and machine learning is often where I find my sweet spot. I am currently a Senior Principal Computational Scientist and Head of Cloud in the Analytics & Informatics group at Shape Therapeutics. 
+
+## 📝 My GitHub
+I host a lot of random repos on GitHub - primarily a combination of bioinformatics, genAI experimentation, personal hardware projects, and home-automation related code and documentation. 
 
 *Code hosted here is mostly either very old legacy and/or experiments done in spare moments here or there and doesn't represent my current style nor reproducibility/documentation practices when working on production code. The vast bulk of code I write for work is proprietary - for up-to-date code samples please contact me directly.*
 
 If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it. 
 
-- 💬 **Ask me about:**
+## 💬 **Ask me about:**
   - 🧬 Bioinformatics, especially Next-Generation Sequencing (NGS) informatics
   - ☁️ Cloud solutions architecture (AWS)
   - 🔌 Hobbyist microelectronics and smarthome devices
   - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, etc
   - 🌐 Home networking
 
-- 📫 **How to reach me:** Create an issue here, message me on LinkedIn ~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
+## 📫 **How to reach me:** 
+Create an issue here, message me on LinkedIn ~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgjohnst&theme=transparent&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&hide_title=true&line_height=20&hide_rank=true)
 
