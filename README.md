@@ -22,6 +22,7 @@ If you have questions or requests on any repos, please feel free to add an issue
   - ☁️ Cloud solutions architecture (AWS)
   - 🔌 Hobbyist microelectronics and smarthome devices
   - 🔬 Gene Therapies, Cancer Immunotherapy (CAR-T), RNA Editing, Synthetic Biology, etc
+  - 🤖 GenAI
   - 🌐 Home networking
 
 ## 📫 **How to reach me:** 
