@@ -1,7 +1,5 @@
-# Timothy Johnstone
+# 👨‍💻 About Me
 Hi! 👋
-
-## 👨‍💻 About Me
 
 My name is Tim (he/him). 
 
