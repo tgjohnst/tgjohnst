@@ -1,4 +1,5 @@
-# Hi! 👋
+# Timothy Johnstone
+Hi! 👋
 
 ## 👨‍💻 About Me
 
