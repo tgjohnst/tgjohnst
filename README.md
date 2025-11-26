@@ -25,7 +25,7 @@ If you have questions or requests on any repos, please feel free to add an issue
   - 🌐 Home networking
 
 ## 📫 **How to reach me:** 
-Create an issue here, message me on LinkedIn ~~, or visit my (very out of date) website at www.timothyjohnstone.com~~
+Create an issue here, message me on LinkedIn , or visit my (very out of date) website at www.timothyjohnstone.com
 
 ## 👥 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timjohnstone/)
