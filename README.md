@@ -3,12 +3,13 @@ Hi! 👋
 
 My name is Tim (he/him).
 
-I'm a cloud-native computational biologist and maker with a passion for problem solving. My mission is to elevate biological intuition and knowledge with a mastery of informatics and systems engineering. As a dynamic technical leader, I'm known for deciphering esoteric technical challenges; flourishing in environments where I can architect systems, craft tools, streamline processes, and mentor and advocate for others to empower an exceptional team around me. I find my sweet spot in engineering cloud resources, informatic tools, and robust automated systems to fuel massively parallel computational biology and machine learning.
+I build systems at the intersection of Cloud Architecture, Computational Biology, and Data Science.
+I really enjoy solving tricky algorithmic puzzles to help accelerate scientific discovery. From architecting complex cloud systems from scratch, to engineering robust pipelines for NGS data, my goal is always to empower teams to turn data and code into decisions and cures. 
+
+You'll also find personal projects here - I'm a big fan of hobbyist hardware, lighting, speakers, and microelectronics; home automation; networking; AI tinkering; and PC gaming. 
 
 ## 📝 My GitHub
-I host a lot of random repos on GitHub - primarily a combination of bioinformatics, genAI experimentation, personal hardware projects, and home-automation related code and documentation. 
-
-*Code hosted here is mostly either legacy and/or experiments done in spare moments here or there and doesn't represent my current style nor reproducibility/documentation practices when working on production code. The vast bulk of code I write for work is proprietary - for up-to-date code samples please contact me directly.*
+I host a lot of random repos on GitHub - code hosted here is mostly either legacy and/or experiments done in spare moments here or there and much of it doesn't represent my current style nor reproducibility/documentation practices when working on production code. The vast bulk of code I write for work is proprietary - for up-to-date code samples please contact me directly.
 
 If you have questions or requests on any repos, please feel free to add an issue and I'll do my best to address it.
 
