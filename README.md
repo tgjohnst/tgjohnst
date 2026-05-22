@@ -4,7 +4,7 @@ Hi! 👋
 My name is Tim (he/him).
 
 I build systems at the intersection of Cloud Architecture, Computational Biology, and Data Science.
-I really enjoy solving tricky algorithmic puzzles to help accelerate scientific discovery. From architecting complex cloud systems from scratch, to engineering robust pipelines for NGS data, my goal is always to empower teams to turn data and code into decisions and cures. 
+I really enjoy solving tricky algorithmic puzzles to help accelerate scientific discovery. From architecting complex cloud systems from scratch, to engineering robust pipelines for NGS data, my goal is always to empower teams to turn data and code into decisions and cures. I've increasingly found satisfaction building, fixing, and automating the behind-the-scenes pieces of computational science, which many find tedious. If I can jump in and fix in ten minutes what would take someone else a week, I've done my job. 
 
 You'll also find personal projects here - I'm a big fan of hobbyist hardware, lighting, speakers, and microelectronics; home automation; networking; AI tinkering; and PC gaming. 
 
