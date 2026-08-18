@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi! 👋 I'm Tim </h1>
   <h3>☁️ Cloud Architecture | 🧬 Computational Biology | 📊 Data Science</h3>
-  <p><em>Empowering teams to turn data and code into decisions and cures.</em></p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timjohnstone/)
   [![Website](https://img.shields.io/badge/Website-timothyjohnstone.com-2ea44f?style=for-the-badge&logo=globe&logoColor=white)](https://www.timothyjohnstone.com)
